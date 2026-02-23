@@ -6,9 +6,8 @@ Get started by reading [docs/setup.md](docs/setup.md).
 See [docs/overview.md](docs/overview.md) for an overview of the base module content.
 
 ## Template for a project
-This is a garbage simultation project
-
-
+This is a garbage simulation project
+There is some garbage trucks driving back and forth
 
 ### My Smart City Project: [Project Name]
 
